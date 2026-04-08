@@ -10,7 +10,6 @@ I enjoy turning messy business data into clear, actionable insights using tools 
 - 📍 Based in **Napier, New Zealand**
 - 🎓 Currently studying:
   - **Diploma in Data Analytics** (Mission Ready)
-  - **Certificate in Information Technology Level 5** (Open Polytechnic)
 - 💼 Experience across **legal, estates administration, sales reporting, procurement, and operations**
 - 🎯 Goal: Data / Business Analyst roles in New Zealand organisations
 
