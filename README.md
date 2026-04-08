@@ -18,7 +18,7 @@ I enjoy turning messy business data into clear, actionable insights using tools 
 ## 🛠️ Tech & Tools
 
 - **Data & BI:** SQL, Power BI, Excel (Pivot Tables, Power Query), Microsoft Fabric  
-- **Programming:** Python (developing proficiency)  
+- **Programming:** Python (Analysis & Machine Learning)  
 - **Business & Ops:** Bookkeeping, GST reporting, sales analysis, process optimisation  
 
 ---
