@@ -1,7 +1,7 @@
 # Hi, I'm Perpetual Milne-Rodrigues 👋
 
 Aspiring **Data Analyst** with a background in **legal administration, business operations, and sales reporting**.  
-I enjoy turning messy business data into clear, actionable insights using tools like **SQL, Power BI, Excel, and Microsoft Fabric**.
+I enjoy turning messy business data into clear, actionable insights using tools like **SQL, Power BI, Excel, Python, and Microsoft Fabric**.
 
 ---
 
