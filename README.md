@@ -23,7 +23,7 @@ I enjoy turning messy business data into clear, actionable insights using tools 
 
 ---
 
-## 💼 Professional Experience (Snapshot)
+## 💼 Professional Experience
 
 - **Estates Secretary – Carlile Dowling Lawyers Ltd (NZ)**  
   Managed estate files, maintained accurate client data, and produced reports for IRD and LINZ.
